@@ -104,6 +104,9 @@ The qubit state is represented as:
 Developed as part of a quantum computing visualization project.
 
 ---
+# Screenshot of Quantum-Bloch-Sphere-Visualiser
+<img width="1862" height="873" alt="image" src="https://github.com/user-attachments/assets/73b8345d-caea-4de8-8f03-e4952e23ca97" />
+
 
 ## ⭐ If you like this project
 
